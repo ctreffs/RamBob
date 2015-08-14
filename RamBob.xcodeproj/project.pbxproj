@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		F86B0E801B7E49E70005DB01 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F86B0E7F1B7E49E70005DB01 /* main.cpp */; };
-		F86B0E871B7E68A80005DB01 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F86B0E861B7E68A80005DB01 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +25,6 @@
 /* Begin PBXFileReference section */
 		F86B0E7C1B7E49E70005DB01 /* RamBob */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RamBob; sourceTree = BUILT_PRODUCTS_DIR; };
 		F86B0E7F1B7E49E70005DB01 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		F86B0E861B7E68A80005DB01 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				F86B0E7F1B7E49E70005DB01 /* main.cpp */,
-				F86B0E861B7E68A80005DB01 /* README.md */,
 			);
 			path = RamBob;
 			sourceTree = "<group>";
@@ -121,7 +118,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F86B0E871B7E68A80005DB01 /* README.md in Sources */,
 				F86B0E801B7E49E70005DB01 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +235,7 @@
 				F86B0E851B7E49E70005DB01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
