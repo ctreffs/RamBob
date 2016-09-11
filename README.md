@@ -8,7 +8,7 @@ A very simple RAM disk creation tool for the Mac OS X shell.
 2. Build
 3. Open Terminal and cd to product folder
 4. Inside Terminal type:
-	 `cp RamBob /user/local/bin` 
+	 `cp ./RamBob /usr/local/bin/` 
 	 to install RamBob into the local shell environment
 
 ### Usage

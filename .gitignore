@@ -1,28 +1,56 @@
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+!default.perspectivev3
+# Compiled Dynamic libraries
 # Compiled Object files
-*.slo
+# Compiled Static libraries
+# Executables
+# Fortran module files
+# Precompiled Headers
+*.DS_Store
+*.a
+*.app
+*.d
+*.dll
+*.dylib
+*.exe
+*.gch
+*.la
+*.lai
+*.lib
 *.lo
+*.mod
+*.mode1v3
+*.mode2v3
+*.moved-aside
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
 *.out
-*.app
+*.pbxuser
+*.pch
+*.perspectivev3
+*.slo
+*.smod
+*.so
+*.xccheckout
+*.xcscmblueprint
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DocumentRevisions-V100
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+._*
+.apdisk
+.com.apple.timemachine.donotpresent
+.fseventsd
+DerivedData/
+Icon
+Network Trash Folder
+Temporary Items
+build/
+xcuserdata/
